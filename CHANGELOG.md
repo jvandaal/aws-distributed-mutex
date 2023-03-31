@@ -1,3 +1,12 @@
+## [3.0.3](https://github.com/informatievlaanderen/aws-distributed-mutex/compare/v3.0.2...v3.0.3) (2023-03-31)
+
+
+### Bug Fixes
+
+* add event RenewLeaseFailed ([862556f](https://github.com/informatievlaanderen/aws-distributed-mutex/commit/862556f1dffc76d94b23a5eaefb91fa6b7707c99))
+* add RenewLeaseFailedException ([0e0fc4b](https://github.com/informatievlaanderen/aws-distributed-mutex/commit/0e0fc4bc277ebf10322fb744636436870b9e2401))
+* bump awssdk.core ([c152896](https://github.com/informatievlaanderen/aws-distributed-mutex/commit/c15289646c6c00bcfe7f2e331497ce8ce83357f1))
+
 ## [3.0.2](https://github.com/informatievlaanderen/aws-distributed-mutex/compare/v3.0.1...v3.0.2) (2023-02-09)
 
 
