@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/informatievlaanderen/aws-distributed-mutex/compare/v3.0.3...v3.0.4) (2023-09-20)
+
+
+### Bug Fixes
+
+* add DistributedLock tablename to logging messages ([42159b3](https://github.com/informatievlaanderen/aws-distributed-mutex/commit/42159b3f2e3701794c755ba7d67f2ba9023ad4e1))
+
 ## [3.0.3](https://github.com/informatievlaanderen/aws-distributed-mutex/compare/v3.0.2...v3.0.3) (2023-03-31)
 
 
