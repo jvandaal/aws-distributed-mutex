@@ -1,3 +1,11 @@
+## [4.0.1](https://github.com/informatievlaanderen/aws-distributed-mutex/compare/v4.0.0...v4.0.1) (2024-03-08)
+
+
+### Bug Fixes
+
+* dependency on netstandard2.1 ([20f91d1](https://github.com/informatievlaanderen/aws-distributed-mutex/commit/20f91d19f41bc61040f773224d33dc02b0566719))
+* package-lock.json ([3fbddba](https://github.com/informatievlaanderen/aws-distributed-mutex/commit/3fbddba1bbb55de6314a432451367cd1c79458f3))
+
 # [4.0.0](https://github.com/informatievlaanderen/aws-distributed-mutex/compare/v3.0.4...v4.0.0) (2024-03-07)
 
 
